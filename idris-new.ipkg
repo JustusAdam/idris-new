@@ -1,0 +1,11 @@
+package idris_new
+
+modules = Main
+
+executable = idris_new
+
+main = Main
+
+libs = c
+
+pkgs = posix
